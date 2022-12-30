@@ -9,7 +9,7 @@ Please find the Architecture diagram below:
 As can be seen in the diagram above we have used
 
 * A VPC in us-east-1 region
-* Two Availability Zones - us-east-1a & use-east-1b
+* Two Availability Zones - us-east-1a & us-east-1b
 * A bastion host in public subnet to connect with app & web servers
 * NAT gateway to allow internet access for web server
 * Internet Gateway to allow resources in the VPC to access internet
