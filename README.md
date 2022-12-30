@@ -34,6 +34,7 @@ As can be seen in the diagram above we have used
 2) Then run `terraform plan`to see the changes which will be made in AWS
 3) `terraform apply` for to physically create the infrastructure
 4) Application Load Balancer DNS is printed as an output. Hit it to check the application.
+5) `terraform destroy` to destry everything
 
 # Things to improve
 
