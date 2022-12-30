@@ -4,7 +4,7 @@ The aim is to spin up infrastructure for a three-tier architecture consisting of
 
 Please find the Architecture diagram below:
 
-![three-tier-architecture-on-aws](three-tier-architecture.jpeg)
+![three-tier-architecture-on-aws](three-tier-architecture.jpg)
 
 As can be seen in the diagram above we have used
 
