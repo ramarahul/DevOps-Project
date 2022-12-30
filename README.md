@@ -4,7 +4,7 @@ The aim is to spin up infrastructure for a three-tier architecture consisting of
 
 Please find the Architecture diagram below:
 
-![alt text](https://github.com/ramarahul/DevOps-Project/blob/main/Three-tier-architecture.png?raw=true)
+![three-tier-architecture-on-aws](thre)
 
 As can be seen in the diagram above we have used
 
