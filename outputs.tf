@@ -1,0 +1,5 @@
+# Getting the DNS of load balancer
+output "alb_dns_name" {
+  description = "The DNS name of the load balancer"
+  value       = "${aws_lb.devops_project_alb.dns_name}"
+}
